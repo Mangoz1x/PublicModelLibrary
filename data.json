@@ -1,0 +1,66 @@
+{
+    "header": {
+        "title": "Smart Rewrite | Make ChatGPT Undetectable",
+        "description": "Test description",
+        "keywords": "chatgpt, chatgpt human, chatgpt human like, gpt, ai, ai to human, how to make ai human, gpt hero, gpt undetectable, get around gpt detector",
+        "icon": "/images/logo.png"
+    },
+    "component_colors": {
+        "navbar": "bg-purple-dark",
+        "navbar_active": "bg-gray-900",
+        "primary_background": "bg-gray-900",
+        "secondary_background": "bg-gray-800",
+        "dark": {
+            
+        },
+        "light": {
+            
+        }
+    },
+    "safelist": ["bg-purple-light-600", "bg-purple-light", "bg-gray-200", "bg-gray-300", "hover:text-black", "hover:text-white", "text-gray-800", "text-gray-900", "bg-gray-100", "dark:bg-gray-900", "bg-purple-dark", "bg-gray-900", "bg-gray-800", "border-velvet", "bg-velvet-light"],
+    "variables": { 
+        "name": "Smart Rewrite", 
+        "handle": "Mangoz" ,
+        "handleUrl": "https://mangoz1x.com/",
+        "facebook": "https://facebook.com/",
+        "twitter": "https://twitter.com/",
+        "linkedin": "https://linkedin.com/",
+        "instagram": "https://instagram.com/"
+    },
+    "extend": {
+        "colors": {
+            "velvet": "#1a010d",
+            "velvet-light": "#4f0d2e",
+            "purple-dark": "#180a33",
+            "purple-light": "#100624",
+            "purple-light-600": "#1d0d3d"
+        }
+    },
+    "navbar": {
+        "buttons": [{
+            "name": "Home",
+            "href": "/"
+        }, {
+            "name": "Login",
+            "href": "/auth/login"
+        }, {
+            "name": "Sign up",
+            "href": "/auth/signup"
+        }]
+    },
+    "loggedIn": {
+        "navbar": {
+            "buttons": [{
+                "name": "Home",
+                "href": "/"
+            }, {
+                "name": "Models",
+                "href": "/models"
+            }]
+        }
+    },
+    "hero": {
+        "title": "Make Your Writing Flow",
+        "description": "Easily copy and paste essays/writing and choose from different personalities, writing levels, and wording schemes to generate more coherant and more professional writing."
+    }
+}
